@@ -1,0 +1,2 @@
+# secrets
+whisper type app 
